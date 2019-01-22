@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8180F0C3-4F2D-48A2-94EE-FC8B8584C9F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.DBAppDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D7800D17-6618-4F3D-922E-042C9D0012FF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DBAppDemo/DBAppDemo.iOS/Main.cs">
+    <Files>
+      <File FileName="DBAppDemo/DBAppDemo/Services/ISQLiteConnectionProvider.cs" Line="11" Column="1" />
+      <File FileName="DBAppDemo/DBAppDemo.Android/Services/Android_SQLiteConnectionProvider.cs" Line="11" Column="50" />
+      <File FileName="DBAppDemo/DBAppDemo.iOS/Services/IOS_SQLiteConnectionProvider.cs" Line="11" Column="46" />
+      <File FileName="DBAppDemo/DBAppDemo.Android/MainActivity.cs" Line="5" Column="26" />
+      <File FileName="DBAppDemo/DBAppDemo/Tables/Member.cs" Line="13" Column="24" />
+      <File FileName="DBAppDemo/DBAppDemo/Services/MemberService.cs" Line="26" Column="10" />
+      <File FileName="DBAppDemo/DBAppDemo/Views/MainPage.xaml" Line="11" Column="109" />
+      <File FileName="DBAppDemo/DBAppDemo/ViewModels/MainPageViewModel.cs" Line="25" Column="51" />
+      <File FileName="Source Not Available" />
+      <File FileName="DBAppDemo/DBAppDemo/App.xaml.cs" Line="20" Column="38" />
+      <File FileName="DBAppDemo/DBAppDemo.iOS/AppDelegate.cs" Line="3" Column="18" />
+      <File FileName="DBAppDemo/DBAppDemo.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DBAppDemo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.95b935bc" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

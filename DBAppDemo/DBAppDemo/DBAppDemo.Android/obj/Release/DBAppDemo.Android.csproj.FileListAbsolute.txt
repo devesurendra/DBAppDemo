@@ -1,0 +1,1 @@
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo.Android/obj/Release/DBAppDemo.Android.csprojAssemblyReference.cache

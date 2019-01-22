@@ -1,0 +1,11 @@
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/bin/Release/netstandard2.0/DBAppDemo.deps.json
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/bin/Release/netstandard2.0/DBAppDemo.dll
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/bin/Release/netstandard2.0/DBAppDemo.pdb
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/DBAppDemo.csproj.CoreCompileInputs.cache
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/DBAppDemo.AssemblyInfoInputs.cache
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/DBAppDemo.AssemblyInfo.cs
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/XamlC.stamp
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/DBAppDemo.dll
+/Users/surendra/Desktop/Xamarin-practice/DBAppDemo/DBAppDemo/DBAppDemo/obj/Release/netstandard2.0/DBAppDemo.pdb
